@@ -9,3 +9,4 @@ section4 = random.randint(1,255)
 random_ip = str(section1) + '.' + str(section2) + '.' + str(section3) + '.' + str(section4)
 # 要把数字转换成为字符串，并且拼接在一起！大家可以想象不转换真的结果是什么？
 print(random_ip)
+# 打印结果
